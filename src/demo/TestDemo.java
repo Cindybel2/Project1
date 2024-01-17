@@ -2,6 +2,7 @@ package demo;
 
 public class TestDemo {
 	
+	//Cindy Beltran
 	public static void main(String[] args) {
 		
 		System.out.println("Day GitHub 2...");
